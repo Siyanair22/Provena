@@ -4,10 +4,6 @@ Ask questions about your PDFs and get answers with charts attached — where eve
 number comes from SQL over extracted table data, and no language model ever draws
 the chart.
 
-![Provena Chat Interface](docs/images/chat-interface.jpeg)
-
-![Provena Document Sidebar](docs/images/document-sidebar.jpeg)
-
 ---
 
 ## What it does
